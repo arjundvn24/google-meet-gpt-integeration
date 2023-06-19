@@ -1,0 +1,33 @@
+{
+  "name": "mercor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjundvn24/google-meet-gpt-integeration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjundvn24/google-meet-gpt-integeration/issues"
+  },
+  "homepage": "https://github.com/arjundvn24/google-meet-gpt-integeration#readme",
+  "dependencies": {
+    "@deepgram/sdk": "^2.1.1",
+    "@google-cloud/speech": "^5.5.0",
+    "@google-cloud/text-to-speech": "^4.2.2",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.3.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "googleapis": "^118.0.0",
+    "node-fetch": "^3.3.1",
+    "puppeteer": "^20.7.2",
+    "puppeteer-stream": "^3.0.4",
+    "simple-tts-mp3": "^1.0.7",
+    "wavefile": "^11.0.0"
+  }
+}
